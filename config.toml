@@ -2,7 +2,7 @@ baseURL = "http://azureninjas.cloud"
 languageCode = "en-us"
 title = "Azure Ninjas"
 theme = "castanet"
-#googleAnalytics = "UA-100789009-1"
+googleAnalytics = "UA-108563085-1"
 disqusShortname = "azureninjas"
 #themesdir = "../.."
 
@@ -65,7 +65,7 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
   [params.social]
   email         = "azure_ninjas@microsoft.com"
   twitter       = "@azureninjas"
-  github        = "full profile url in github"
+  github        = "https://github.com/codingwithsasquatch"
 
   [params.authors]
     [params.authors.elizagr]
