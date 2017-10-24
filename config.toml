@@ -1,0 +1,92 @@
+baseURL = "http://azureninjas.cloud"
+languageCode = "en-us"
+title = "Azure Ninjas"
+theme = "castanet"
+#googleAnalytics = "UA-100789009-1"
+disqusShortname = "azureninjas"
+#themesdir = "../.."
+
+
+
+[permalinks]
+	# page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+
+
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+# The menus are sorted based upon their identifier
+[[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "about"
+
+[[Menu.Main]]
+    name = "Guests"
+    identifier = "guests"
+    url = "guest"
+
+[[Menu.Main]]
+    name = "Blog"
+    identifier = "blog"
+    url = "blog"
+
+
+[params]
+site_theme = "light"
+site_layout = "grid"
+enable_jumbo = "false"
+# truncate = "100"
+about_logo = "/img/logo.jpg"
+copyright_notice = "Copyright 2017 Azure Ninjas"
+itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
+android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
+google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
+sticher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
+soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
+#rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
+description = "Azure Ninjas is a podcast hosted by Microsoft employees that discuss more about Azure than just the new features.  We bring in the Product Group to talk about archtiectures, solutions, and more."
+media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+  [params.feed]
+    feed_copyright = "Copyright 2017 Azure Ninjas"
+    itunes_subtitle = "The best podcast ever" #no markdown or HTML
+    itunes_author = "Matt Stratton" #no markdown or HTML
+    itunes_summary = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Matt Stratton"
+    itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    itunes_top_category = "Technology"
+    itunes_first_sub_category = "Software How-To"
+    itunes_second_sub_category = "Tech News"
+
+  [params.social]
+  email         = "azure_ninjas@microsoft.com"
+  twitter       = "@azureninjas"
+  github        = "full profile url in github"
+
+  [params.authors]
+    [params.authors.elizagr]
+			name	= "Elizabeth Graham"
+			thumbnail = "/img/host/elizagr.jpg"
+			bio = "Elizabeth is an Azure Architect on Global Blackbelt team.  She is typically found in front of the computer writing integration processes and Web APIs.  She has promised not to mention BizTalk once."
+			[params.authors.elizagr.social]
+				github = "esgraham13"
+				twitter = "esgraham13"
+				linkedin = "esgraham13"
+
+ [params.authors.sasrose]
+			name	= "Sasha Rosenbaum"
+			thumbnail = "/img/host/sasrose.png"
+			bio = "Elizabeth is an Azure Architect on Global Blackbelt team.  She is typically found in front of the computer writing integration processes and Web APIs.  She has promised not to mention BizTalk once."
+			[params.authors.sasrose.social]
+				github = "esgraham13"
+				twitter = "esgraham13"
+				linkedin = "esgraham13"
+
+    [params.links]
+      [params.links.ado]
+        name = "Azure Ninjas"
+        url = "https://www.azureninjas.cloud"
