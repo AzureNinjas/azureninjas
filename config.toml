@@ -1,7 +1,7 @@
 baseURL = "http://azureninjas.cloud"
 languageCode = "en-us"
 title = "Azure Ninjas"
-theme = "castanet"
+theme = "castanetninja"
 googleAnalytics = "UA-108563085-1"
 disqusShortname = "azureninjas"
 #themesdir = "../.."

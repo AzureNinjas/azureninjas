@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\static\\img",
     "\\themes",
-    "\\themes\\castanet",
+    "\\themes\\castanet1",
     "\\themes\\hugo-creative-portfolio-theme"
   ],
-  "SelectedNode": "\\themes\\castanet",
+  "SelectedNode": "\\config.toml",
   "PreviewInSolutionExplorer": false
 }
