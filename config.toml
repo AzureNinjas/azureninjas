@@ -65,7 +65,7 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
   [params.social]
   email         = "azure_ninjas@microsoft.com"
   twitter       = "@azureninjas"
-  github        = "https://github.com/codingwithsasquatch"
+  github        = "codingwithsasquatch"
 
   [params.authors]
     [params.authors.elizagr]
