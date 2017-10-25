@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\themes",
-    "\\themes\\castanetninja"
+    "\\themes\\castanetninja",
+    "\\themes\\castanetninja\\static\\css"
   ],
   "SelectedNode": "\\themes\\castanetninja",
   "PreviewInSolutionExplorer": false
