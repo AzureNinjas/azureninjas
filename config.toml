@@ -16,11 +16,6 @@ disqusShortname = "azureninjas"
 
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
-# The menus are sorted based upon their identifier
-[[Menu.Main]]
-    name = "About"
-    identifier = "about"
-    url = "about"
 
 [[Menu.Main]]
     name = "Guests"
@@ -31,6 +26,16 @@ disqusShortname = "azureninjas"
     name = "Blog"
     identifier = "blog"
     url = "blog"
+
+	[[Menu.Main]]
+    name = "Hosts"
+    identifier = "hosts"
+    url = "host"
+
+  [[Menu.Main]]
+    name = "Authors"
+    identifier = "authors"
+    url = "author"
 
 
 [params]
@@ -68,23 +73,7 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
   github        = "codingwithsasquatch"
 
   [params.authors]
-    [params.authors.elizagr]
-			name	= "Elizabeth Graham"
-			thumbnail = "/img/host/elizagr.jpg"
-			bio = "Elizabeth is an Azure Architect on Global Blackbelt team.  She is typically found in front of the computer writing integration processes and Web APIs.  She has promised not to mention BizTalk once."
-			[params.authors.elizagr.social]
-				github = "esgraham13"
-				twitter = "esgraham13"
-				linkedin = "esgraham13"
 
- [params.authors.sasrose]
-			name	= "Sasha Rosenbaum"
-			thumbnail = "/img/host/sasrose.png"
-			bio = "Elizabeth is an Azure Architect on Global Blackbelt team.  She is typically found in front of the computer writing integration processes and Web APIs.  She has promised not to mention BizTalk once."
-			[params.authors.sasrose.social]
-				github = "esgraham13"
-				twitter = "esgraham13"
-				linkedin = "esgraham13"
 
     [params.links]
       [params.links.ado]

@@ -1,10 +1,23 @@
 {
   "ExpandedNodes": [
     "",
+    "\\content",
+    "\\content\\author",
+    "\\content\\episode",
+    "\\data",
+    "\\data\\authors",
+    "\\data\\episode",
+    "\\data\\hosts",
+    "\\layouts",
+    "\\layouts\\author",
+    "\\static",
+    "\\static\\img",
+    "\\static\\img\\episode",
     "\\themes",
-    "\\themes\\castanetninja",
-    "\\themes\\castanetninja\\static\\css"
+    "\\themes\\castanet",
+    "\\themes\\castanet\\layouts",
+    "\\themes\\castanet\\layouts\\episode"
   ],
-  "SelectedNode": "\\themes\\castanetninja",
+  "SelectedNode": "\\content\\episode\\serverless.md",
   "PreviewInSolutionExplorer": false
 }
