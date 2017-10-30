@@ -1,10 +1,10 @@
 +++
 Description = "Serverless is the future"
-aliases = ["/7"]
+aliases = ["/1"]
 author = "Matt"
 categories = []
 date = "2017-10-03T12:00:00-00:00"
-episode = "7"
+episode = "1"
 episode_image = "img/episode/functionslogo.jpg"
 explicit = "no"
 guests = ["donnam", "facaval"]
