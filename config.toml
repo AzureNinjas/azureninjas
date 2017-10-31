@@ -1,4 +1,4 @@
-baseURL = "http://azureninjas.cloud"
+baseURL = "https://www.azureninjas.cloud"
 languageCode = "en-us"
 title = "Azure Ninjas"
 theme = "castanet"
@@ -10,8 +10,8 @@ disqusShortname = "azureninjas"
 
 [permalinks]
 	# page = "/:filename/"
-	about = "/:filename/"
-	episode = "/:filename/"
+	# about = "/:filename/"
+	# episode = "/:filename/"
 
 
 # The theme supports menus with up to one submenu per menu item
@@ -51,7 +51,7 @@ google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&i
 sticher_subscribe = "http://www.stitcher.com/podcast/"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Azure Ninjas is a podcast hosted by Microsoft employees that discuss more about Azure than just the new features.  We bring in the Microsoft Product Group to talk about archtiectures, solutions, and more."
-media_prefix = "https://media.blubrry.com//content.blubrry.com//"
+media_prefix = "https://www.azureninjas.cloud/media/"
   [params.feed]
     feed_copyright = "Copyright 2017 Azure Ninjas"
     itunes_subtitle = "Azure Ninjas is a podcast hosted by Microsoft employees that discuss more about Azure than just the new features."

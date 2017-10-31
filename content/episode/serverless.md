@@ -1,6 +1,6 @@
 +++
 Description = "Serverless is the future"
-aliases = ["/1"]
+aliases = ["/serverless"]
 author = "Matt"
 categories = []
 date = "2017-10-03T12:00:00-00:00"
@@ -8,10 +8,10 @@ episode = "1"
 episode_image = "img/episode/functionslogo.jpg"
 explicit = "no"
 guests = ["donnam", "facaval"]
-hosts = ["elizagr", "sasrose"]
+hosts = ["elizagr", "sasrose", "peroden"]
 news_keywords = []
 podcast_duration = "1:08:22"
-podcast_file = "arrested-devops-podcast-episode053.mp3"
+podcast_file = "Serverless.mp3"
 podcast_bytes = ""
 tags = []
 title = "Serverless"
