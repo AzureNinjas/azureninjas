@@ -2,8 +2,7 @@
 Title = "Elizabeth Graham"
 date = "2017-10-03T12:00:00-05:00"
 Twitter = "@esgraham13"
-GitHub = "esgraham13"
-LinkedIn = "esgraham13"
+LinkedIn = "esgraham"
 Type = "host"
 Thumbnail = "img/host/elizagr.jpg"
 +++

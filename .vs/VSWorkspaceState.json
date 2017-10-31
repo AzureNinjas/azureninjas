@@ -1,23 +1,19 @@
 {
   "ExpandedNodes": [
     "",
+    "\\archetypes",
     "\\content",
-    "\\content\\author",
-    "\\content\\episode",
+    "\\content\\about",
     "\\data",
-    "\\data\\authors",
-    "\\data\\episode",
-    "\\data\\hosts",
+    "\\data\\guests",
     "\\layouts",
-    "\\layouts\\author",
-    "\\static",
-    "\\static\\img",
-    "\\static\\img\\episode",
+    "\\layouts\\episode",
+    "\\layouts\\host",
     "\\themes",
     "\\themes\\castanet",
-    "\\themes\\castanet\\layouts",
-    "\\themes\\castanet\\layouts\\episode"
+    "\\themes\\castanet\\static",
+    "\\themes\\castanet\\static\\css"
   ],
-  "SelectedNode": "\\content\\episode\\serverless.md",
+  "SelectedNode": "\\content\\author\\peroden.md",
   "PreviewInSolutionExplorer": false
 }

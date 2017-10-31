@@ -8,6 +8,7 @@ episode = "1"
 episode_image = "img/episode/functionslogo.jpg"
 explicit = "no"
 guests = ["donnam", "facaval"]
+hosts = ["elizagr", "sasrose"]
 news_keywords = []
 podcast_duration = "1:08:22"
 podcast_file = "arrested-devops-podcast-episode053.mp3"
@@ -18,8 +19,76 @@ title = "Serverless"
 
 +++
 
-Bootstrapping alpha seed money scrum project. Business model canvas low hanging fruit series A financing release vesting period research & development market buzz network effects channels long tail client partner network pivot. Innovator market android buyer gamification. User experience gamification interaction design sales. Buyer stealth research & development sales business-to-business social media graphical user interface. Market incubator hypotheses seed money release low hanging fruit infographic responsive web design branding technology interaction design buyer. Ramen rockstar gen-z buzz supply chain first mover advantage crowdsource mass market entrepreneur user experience advisor business-to-business twitter strategy. Termsheet low hanging fruit lean startup crowdfunding customer. Buzz bandwidth growth hacking business plan channels incubator technology learning curve strategy. Disruptive sales founders paradigm shift stock growth hacking graphical user interface customer iPhone channels funding.
+00:00 - 00:30 - Intro
 
-Buyer vesting period technology. Android ownership gamification churn rate low hanging fruit. Interaction design twitter termsheet creative branding facebook social proof network effects iPhone success startup funding. Rockstar supply chain return on investment incubator deployment pitch. Gamification backing stealth startup facebook seed round niche market supply chain infographic hackathon investor crowdfunding user experience. Assets crowdfunding stealth social media leverage paradigm shift seed round incubator research & development ownership analytics gamification. Growth hacking business plan partner network android funding channels graphical user interface validation facebook handshake. Monetization direct mailing social proof. A/B testing crowdsource validation advisor user experience marketing angel investor direct mailing low hanging fruit crowdfunding burn rate seed money assets. Paradigm shift client stock ownership agile development stealth.
+00:30 - 2:45 - Guest Bio's (Donna and Fabio)
 
-Channels influencer innovator iteration return on investment bandwidth responsive web design iPad freemium early adopters. Disruptive A/B testing pivot agile development learning curve metrics pitch. Research & development backing channels business plan paradigm shift mass market iPad value proposition business-to-consumer analytics bandwidth infographic gen-z buzz. Accelerator agile development advisor lean startup network effects. Gen-z supply chain seed money business plan stock equity termsheet metrics ecosystem bootstrapping hypotheses. Leverage pitch market scrum project responsive web design. Validation branding disruptive ownership. Equity scrum project mass market seed round iteration. Gen-z user experience learning curve marketing crowdfunding. Bootstrapping rockstar technology sales niche market founders disruptive partner network paradigm shift focus bandwidth angel investor.
+02:46 -05:55 - Overview of what Azure Functions / <span
+class=SpellE>Serverless</span> is 
+
+05:56 - 06:35 - What <b style='mso-bidi-font-weight:normal'>isn't
+</b><span class=SpellE>Serverless</span> a good fit for?
+
+06:36 - What makes functions unique? 
+
+9:25 - <a href="https://github.com/Azure/Azure-Functions">GitHub Repo for Azure Functions</a>
+
+11:48 - Function built on <span class=SpellE>webjobs</span>
+
+12:09 - <a
+href="https://myignite.microsoft.com/sessions/53234?source=sessions">Cross
+platform (Windows / <span class=GramE>OSX )</span> (Ignite Demo, Fabio)</a>
+
+13:15 - <a
+href="https://blogs.microsoft.com/iot/2017/09/25/microsoft-ignite-2017-leading-innovation-iot/">Functions locally as an intelligent edge - on premises runtime (Build, Sam George)</a>
+
+14:50 - <a
+href="https://azure.microsoft.com/en-us/case-studies/accuweather-web/"><span
+class=SpellE>Accuweather</span> case study</a>
+
+15.20 - <a
+href="https://azure.microsoft.com/en-us/resources/videos/build-2017-automated-provisioning-of-azure-functions-on-carmax-com/?cdn=disable">CarMax
+Case study</a> 
+
+16:14 - <a
+href="https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/">Blog
+post 100,000 messages per second using event hubs</a> (<span class=SpellE>Paul</span>
+<span class=SpellE>Battam</span>)
+
+19.29 - <a
+href="https://docs.microsoft.com/en-us/azure/app-service/app-service-managed-service-identity">Managed
+Service Identity</a>
+
+20:41 - <a
+href="https://www.amazon.com/Serverless-computing-Azure-Sasha-Rosenbaum-ebook/dp/B07253JXLG">Sasha's
+Book <span class=SpellE>Serverless</span> Computing</a>
+
+24:30 - <a
+href="https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/">Blog
+post to <span class=SpellE>xplat</span> build experience</a> 
+
+29:00 - <a
+href="https://azure.microsoft.com/en-us/pricing/details/functions/">Functions
+as App Service Plan vs consumption</a>
+
+31:00 - Misconceptions
+
+37:29 - <a
+href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices">Best
+Practices</a> Azure Functions
+
+37:50 - Future of Azure Functions
+
+39:14 - Functions 2.0 preview (need help with this one)
+
+39:52 - Go Do's 
+
+<p style='text-indent:.5in'><a
+href="https://blogs.msdn.microsoft.com/appserviceteam/2017/07/06/alpha-preview-for-durable-functions/">Durable
+functions</a>
+
+<p style='text-indent:.5in'><a
+href="https://www.youtube.com/azurefunctions">Functions YouTube Channel</a>
+
+Functions twitter - <a
+href="https://twitter.com/AzureFunctions">@<span class=SpellE>azurefunctions</span></a>
