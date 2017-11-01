@@ -1,7 +1,7 @@
 +++
 Description = "Serverless is the future"
 aliases = ["/serverless"]
-author = "Matt"
+author = "Elizabeth"
 categories = []
 date = "2017-10-03T12:00:00-00:00"
 episode = "1"
@@ -10,9 +10,9 @@ explicit = "No"
 guests = ["donnam", "facaval"]
 hosts = ["elizagr", "sasrose", "peroden"]
 news_keywords = []
-podcast_duration = "1:08:22"
+podcast_duration = "0:44:47"
 podcast_file = "Serverless.mp3"
-podcast_bytes = ""
+podcast_bytes = "46027131"
 tags = []
 title = "Serverless"
 

@@ -32,10 +32,10 @@ disqusShortname = "azureninjas"
     identifier = "hosts"
     url = "host"
 
-  [[Menu.Main]]
-    name = "Authors"
-    identifier = "authors"
-    url = "author"
+#  [[Menu.Main]]
+#    name = "Authors"
+#    identifier = "authors"
+#    url = "author"
 
 
 [params]
@@ -46,7 +46,7 @@ enable_jumbo = "false"
 about_logo = "/img/logo.png"
 copyright_notice = "Copyright 2017 Azure Ninjas"
 itunes_subscribe = "http://itunes.apple.com/us/podcast//id773888088?mt=2&uo=4&at=11lsCi"
-android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
+android_subscribe = "http://www.subscribeonandroid.com/www.azureninjas.cloud/episode/index.xml"
 google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
 sticher_subscribe = "http://www.stitcher.com/podcast/"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
