@@ -9,8 +9,7 @@
     "\\layouts\\partials",
     "\\themes",
     "\\themes\\castanet",
-    "\\themes\\castanet\\layouts",
-    "\\themes\\castanet\\layouts\\section"
+    "\\themes\\castanet\\layouts"
   ],
   "PreviewInSolutionExplorer": false
 }
