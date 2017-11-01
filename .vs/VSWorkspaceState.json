@@ -5,12 +5,13 @@
     "\\content",
     "\\content\\about",
     "\\content\\episode",
-    "\\static",
-    "\\static\\img",
-    "\\static\\img\\host",
+    "\\layouts",
+    "\\layouts\\partials",
     "\\themes",
     "\\themes\\castanet",
-    "\\themes\\castanet\\layouts"
+    "\\themes\\castanet\\layouts",
+    "\\themes\\castanet\\layouts\\partials",
+    "\\themes\\castanet\\layouts\\section"
   ],
   "PreviewInSolutionExplorer": false
 }
