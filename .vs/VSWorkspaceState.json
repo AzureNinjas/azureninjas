@@ -4,16 +4,13 @@
     "\\archetypes",
     "\\content",
     "\\content\\about",
-    "\\data",
-    "\\data\\guests",
-    "\\layouts",
-    "\\layouts\\episode",
-    "\\layouts\\host",
+    "\\content\\episode",
+    "\\static",
+    "\\static\\img",
+    "\\static\\img\\host",
     "\\themes",
     "\\themes\\castanet",
-    "\\themes\\castanet\\static",
-    "\\themes\\castanet\\static\\css"
+    "\\themes\\castanet\\layouts"
   ],
-  "SelectedNode": "\\content\\author\\peroden.md",
   "PreviewInSolutionExplorer": false
 }
