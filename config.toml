@@ -48,7 +48,7 @@ copyright_notice = "Copyright 2017 Azure Ninjas"
 itunes_subscribe = "http://itunes.apple.com/us/podcast/"
 android_subscribe = "http://www.subscribeonandroid.com/www.azureninjas.cloud/episode/index.xml"
 google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link="
-sticher_subscribe = "http://www.stitcher.com/podcast/"
+sticher_subscribe = "https://www.stitcher.com/s?fid=156707&refid=stpr"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Azure Ninjas is a podcast hosted by Microsoft employees that discuss more about Azure than just the new features.  We bring in the Microsoft Product Group to talk about archtiectures, solutions, and more."
 media_prefix = "https://www.azureninjas.cloud/media/"
