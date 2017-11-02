@@ -55,9 +55,9 @@ media_prefix = "https://www.azureninjas.cloud/media/"
   [params.feed]
     feed_copyright = "Copyright 2017 Azure Ninjas"
     itunes_subtitle = "Azure Ninjas is a podcast hosted by Microsoft employees that discuss more about Azure than just the new features."
-    itunes_author = "Elizabeth Graham, Pete Roden" 
+    itunes_author = "Microsoft Global Black Belts" 
     itunes_summary = "Azure Ninjas is a podcast hosted by Microsoft employees that discuss more about Azure than just the new features.  We bring in the Microsoft Product Group to talk about architectures, solutions, and more." 
-    itunes_owner_name = "Elizabeth Graham, Pete Roden"
+    itunes_owner_name = "Microsoft Global Black Belts"
     itunes_owner_email = "esenoch@hotmail.com"
     itunes_image = "https://www.azureninjas.cloud/img/logo.png" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
