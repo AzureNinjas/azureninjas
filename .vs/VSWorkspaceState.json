@@ -2,14 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\archetypes",
-    "\\content",
     "\\content\\about",
     "\\content\\episode",
     "\\layouts",
     "\\layouts\\partials",
-    "\\themes",
-    "\\themes\\castanet",
-    "\\themes\\castanet\\layouts"
+    "\\static",
+    "\\static\\img",
+    "\\static\\img\\author",
+    "\\static\\img\\host"
   ],
   "PreviewInSolutionExplorer": false
 }
