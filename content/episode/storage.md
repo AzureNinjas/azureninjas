@@ -23,8 +23,6 @@ title = "Azure Storage"
 
 00:30 - 4:27 - Guest Bio (Karl)
 
-Karl's LinkedIn - <a href="https://www.linkedin.com/in/karlrautenstrauch/"><span class=SpellE>Karl Rautenstrauch</span></a>
-
 04:27 - Overview of what Azure <span class=SpellE>Storage</span> is 
 
 8:33 - What is the "magic" that Azure brings to storage?
