@@ -38,6 +38,7 @@ disqusShortname = "azureninjas"
 #    url = "author"
 
 
+
 [params]
 site_theme = "light"
 site_layout = "grid"
@@ -68,7 +69,7 @@ media_prefix = "https://www.azureninjas.cloud/media/"
   [params.social]
   email         = "azure_ninjas@microsoft.com"
   twitter       = "@azureninjas"
-  github        = "codingwithsasquatch"
+  github        = "azureninjas"
 
   [params.authors]
 

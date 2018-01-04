@@ -3,7 +3,7 @@ Description = "Microsoft Azure Storage is a Microsoft-managed cloud service that
 aliases = ["/storage"]
 author = "Sasha"
 categories = []
-date = "2018-0110-03T12:00:00-00:00"
+date = "2018-01-03T12:00:00-00:00"
 episode = "2"
 episode_image = "img/episode/storagelogo.jpg"
 explicit = "No"
@@ -21,17 +21,65 @@ title = "Azure Storage"
 
 00:00 - 00:30 - Intro
 
-00:30 - 4:27 - Guest Bio (Karl)
+00:30 - 04:15 - Guest Background and College Mascot (Karl)
 
-04:27 - Overview of what Azure <span class=SpellE>Storage</span> is 
+04:15 - 06:23 - Overview of Cloud Storage
 
-8:33 - What is the "magic" that Azure brings to storage?
+06:23 - 08:25 - <a
+href="https://azure.microsoft.com/en-us/services/storage/">Azure Storage
+Overview</a>
 
-?? - What makes Azure Storage unique? 
+08:25 - 09:35 - Storage Capacity Planning in Azure
 
-?? - Future of Azure Storage
+09:35 - 14:05 - <a
+href="https://azure.microsoft.com/en-us/blog/announcing-larger-higher-scale-storage-accounts/">Azure
+Storage Limits and Increases in the Limits</a>
 
-?? - Go Do's 
+14:05 - 17:03 – <a
+href="https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy">Storage
+Replication</a>
+
+17:03 - 18:43 - What makes Azure Storage Platform unique?
+
+18:43 - 19:28 - <a
+href="https://azure.microsoft.com/en-us/roadmap/azure-archive-storage-and-blob-level-tiering/">Blob
+Level Tiering and Archive Tier</a>
+
+19:28 - 22:50 - Storage Tier Architectures
+
+22:50 - 25:20 - How Azure Storage works with Microsoft
+Storage Partners
+
+25:20 - 29:20 - <a
+href="https://azure.microsoft.com/en-us/updates/azure-data-box-preview/">Azure
+Data Box</a>
+
+29:20 - 30:10 - <a
+href="https://azure.microsoft.com/en-us/services/storage/databox/">Azure Data
+Box Case</a>
+
+30:10 - 32:30 - <a
+href="https://azure.microsoft.com/en-us/resources/videos/azure-friday-hybrid-storage-with-azure-file-sync-langhout/">Hybrid
+File Use Case and Azure Hybrid File Sync</a>
+
+32:30 - 34:50 - <a
+href="https://azure.microsoft.com/en-us/roadmap/?category=storage">Azure Storage
+Roadmap</a> 
+
+34:50 - 36:10 - <a
+href="https://azure.microsoft.com/en-us/updates/?product=storage">Watch Azure
+Blog for Announcements</a>
+
+36:10 - 37:50 - Removing Roadblocks (Firewalls, Encryption
+on by Default, Customer Managed Keys)
+
+37:50 - 39:15 - Azure Storage Team has never lost customer
+data
+
+39:15 - 42:30 - Misconceptions
+
+42:30 - Go Dos
+ 
 
 
-Functions twitter - <a href="https://twitter.com/azurestorage">@<span class=SpellE>AzureStorage</span></a>
+Azure Storage twitter - <a href="https://twitter.com/azurestorage">@<span class=SpellE>AzureStorage</span></a>
