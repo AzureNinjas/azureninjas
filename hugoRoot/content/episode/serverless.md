@@ -1,5 +1,9 @@
 +++
-Description = "Serverless is the future"
+Description = """The Azure Serverless podcast features Azure Functions product group members Donna Malayeri and Fabio Cavalcante reviewing the benefits of Serverless technology, 
+why it is rapidly gaining popularity in the recent years, and how customers can leverage it to achieve business results in a cost-efficient manner in a dynamically scalable environment!
+<br/><br/>
+Azure Functions is a Serverless compute service that enables you to run code on-demand without having to explicitly provision or manage infrastructure. 
+Use Azure Functions to run a script or piece of code in response to a variety of events."""
 aliases = ["/serverless"]
 author = "Elizabeth"
 categories = []
