@@ -1,5 +1,5 @@
 ﻿+++
-Description = """The new Azure Storage podcast feature senior program manager Karl Rautenstrauch giving an overview of the new features in Azure Storage services, 
+Description = """The new Azure Storage podcast features senior Storage program manager Karl Rautenstrauch giving an overview of the new features in Azure Storage services, 
 and how Microsoft customers can leverage them to maximize business value! 
 <br/><br/>
 Microsoft Azure Storage is a Microsoft-managed cloud service that provides storage that is highly available, secure, durable, scalable, and redundant. 
