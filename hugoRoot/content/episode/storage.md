@@ -18,7 +18,7 @@ hosts = ["sasrose", "jujako"]
 news_keywords = []
 podcast_duration = "0:46:42"
 podcast_file = "Storage.mp3"
-podcast_bytes = "46027131"
+podcast_bytes = "24419285"
 tags = []
 title = "Azure Storage"
 
