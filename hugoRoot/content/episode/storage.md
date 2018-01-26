@@ -8,7 +8,7 @@ Blob storage supports both standard and premium storage, with premium storage us
 Another feature is cool storage, allowing you to store large amounts of rarely accessed data for a lower cost."""
 aliases = ["/storage"]
 author = "Sasha"
-categories = []
+categories = ["Storage"]
 date = "2018-01-03T12:00:00-00:00"
 episode = "2"
 episode_image = "img/episode/storagelogo.jpg"

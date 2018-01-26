@@ -7,8 +7,8 @@ Azure Event Grid is a fully-managed intelligent event routing service that allow
 a publish-subscribe model. Use Azure Event Grid to react to relevant events across both Azure and non-Azure services 
 in near-real time fashion. Learn how to use Azure Event Grid with our quickstarts, tutorials, and samples."""
 aliases = ["/eventgrid"]
-author = "Elizabeth"
-categories = []
+author = "Microsoft GBBs"
+categories = ["Internet of Things"]
 date = "2018-01-30T12:00:00-00:00"
 episode = "3"
 episode_image = "img/episode/eventgrid.png"
@@ -19,7 +19,7 @@ news_keywords = []
 podcast_duration = "0:44:47"
 podcast_file = "EventGrid.mp3"
 podcast_bytes = ""
-tags = []
+tags = ["Event Grid"]
 title = "Event Grid"
 draft=true
 
@@ -31,3 +31,4 @@ draft=true
 00:30 - 2:45 - Guest Bio's 
 
 02:46 -05:55 - Overview of Event Grid
+

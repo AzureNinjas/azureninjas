@@ -6,7 +6,7 @@ Azure Functions is a Serverless compute service that enables you to run code on-
 Use Azure Functions to run a script or piece of code in response to a variety of events."""
 aliases = ["/serverless"]
 author = "Elizabeth"
-categories = []
+categories = ["Compute"]
 date = "2017-10-03T12:00:00-00:00"
 episode = "1"
 episode_image = "img/episode/functionslogo.jpg"
