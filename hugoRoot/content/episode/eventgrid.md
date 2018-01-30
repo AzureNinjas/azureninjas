@@ -21,7 +21,6 @@ podcast_file = "EventGrid.mp3"
 podcast_bytes = "18764071"
 tags = ["Event Grid"]
 title = "Event Grid"
-draft=true
 
 
 +++
