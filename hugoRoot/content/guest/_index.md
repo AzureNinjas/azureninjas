@@ -5,4 +5,4 @@ title = "Guests of Azure Ninjas"
 aliases = "/guests"
 +++
 
-Want to suggest a guest or topic? Send us an email!
+Want to suggest a guest or topic? Send us an email to azure_ninjas@microsoft.com!
