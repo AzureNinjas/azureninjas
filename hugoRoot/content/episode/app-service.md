@@ -1,5 +1,8 @@
 ﻿+++
-Description = """Azure Web Apps enables you to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Visual Studio Team Services, or any Git repo. """
+Description = """Azure Web Apps enables you to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Visual Studio Team Services, or any Git repo. 
+</br></br>
+In this podcast we discuss the coolest features of the Azure App Service, the common use cases and the enormous scale the service is running at. We also walk through the most common misconceptions and discuss different technology stacks and languages that can be deployed on the App Service platform. 
+"""
 aliases = ["/appservice"]
 author = "Sasha"
 categories = ["App Dev"]
