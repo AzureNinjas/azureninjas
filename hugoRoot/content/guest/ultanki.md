@@ -5,5 +5,5 @@ Twitter = "@bktv99"
 Type = "guest"
 Thumbnail = "img/guest/ultanki.png"
 +++
-Byron Tardif is a Program Manager at Microsoft
+Ultan Kinahan is a Program Manager at Microsoft
 
