@@ -26,7 +26,7 @@ title = "Azure Stack"
 
 0:18 - Guest bio's (Natalia, Ultan)
 
-3:48 - <a href="https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-poc">What is Azure Stack?</a>
+3:48 - <a target="_blank" href="https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-poc">What is Azure Stack?</a>
 
 6:00 – Development on Azure Stack
 
@@ -36,10 +36,10 @@ title = "Azure Stack"
 
 25:00 – Stack at Service Providers and how to buy Stack and how to pay for VM’s/Services
 
-33:00 – <a href="https://azure.microsoft.com/en-us/roadmap/?tag=azure-stack">Azure Stack Roadmap</a>
+33:00 – <a target="_blank" href="https://azure.microsoft.com/en-us/roadmap/?tag=azure-stack">Azure Stack Roadmap</a>
 
 36:00 – Services available on Stack vs Azure proper
 
 44:00 – How to provide feedback to the Stack Team
 
-49:00 – <a href="https://docs.microsoft.com/en-us/azure/azure-stack/asdk/">Azure Stack SDK</a>
+49:00 – <a target="_blank" href="https://docs.microsoft.com/en-us/azure/azure-stack/asdk/">Azure Stack SDK</a>

@@ -20,18 +20,18 @@ title = "Terraform on Azure"
 
 +++
 
-0:33 - Tom Harvey – HashiCorp. (<a
+0:33 - Tom Harvey – HashiCorp. (<a target="_blank" 
 href="https://www.linkedin.com/in/tombuildsstuff/">LinkedIn</a>)
 (@tombuildsstuff on twitter)
 
-1:19 – <a
+1:19 – <a target="_blank" 
 href="https://www.terraform.io/docs/providers/azurerm/">Terraform</a>, and <a
 href="https://www.hashicorp.com/products/terraform">Terraform Enterprise</a>
 
-2:10 – <a href="https://github.com/hashicorp/hcl">HCL
+2:10 – <a target="_blank"  href="https://github.com/hashicorp/hcl">HCL
 (HahsiCorp Configuration Language)</a>
 
-6:35 – <a
+6:35 – <a target="_blank" 
 href="https://www.terraform.io/docs/providers/azurerm/">Terraform Azure
 Provider</a>
 
@@ -41,18 +41,18 @@ Provider</a>
 
 11:40 – Terraform and Containers
 
-12:55 – <a href="https://www.hashicorp.com/products/vault">HashiCorp
+12:55 – <a target="_blank"  href="https://www.hashicorp.com/products/vault">HashiCorp
 Vault</a>
 
 14:30 – Resource Providers
 
 17:35 – Misconceptions
 
-19:37 – Future – <a href="http://registry.terraform.io">Modules
+19:37 – Future – <a target="_blank"  href="http://registry.terraform.io">Modules
 Registry</a>
 
 20:39 – Go-do’s
 
 21:42 – AI
 
-HashiCorp twitter - <a href="https://twitter.com/hashicorp">@HashiCorp</a>
+HashiCorp twitter - <a target="_blank"  href="https://twitter.com/hashicorp">@HashiCorp</a>

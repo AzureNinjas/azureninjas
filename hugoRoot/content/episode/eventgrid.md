@@ -27,21 +27,21 @@ title = "Event Grid"
 
 00:15 - 2:45 - Guest Bio's - Bahram Banisadr and David Barkol
 
-01:00 -03:42 - <a href="https://docs.microsoft.com/en-us/azure/event-grid/overview"> Overview of Event Grid </a>
+01:00 -03:42 - <a target="_blank"  href="https://docs.microsoft.com/en-us/azure/event-grid/overview"> Overview of Event Grid </a>
 
 03:42 - 04:58 - Targeted Sub-Second Latency Goals
 
 04:58 - 07:07 - Architecture Design with Event Grid
 
-07:07 - 10:13 - <a href="https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services">Distinguishing between Service Bus, Relays, and Event Grid</a>
+07:07 - 10:13 - <a target="_blank" href="https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services">Distinguishing between Service Bus, Relays, and Event Grid</a>
 
 10:13 - 11:21 - Event Grid SLAs
 
 11:21 - 12:30 - At least once delivery architecture
 
-12:30 - 15:30 - <a href="https://docs.microsoft.com/en-us/azure/event-grid/delivery-and-retry">Events versus Commands (Event Grid vs Event Hubs)</a>
+12:30 - 15:30 - <a target="_blank"  href="https://docs.microsoft.com/en-us/azure/event-grid/delivery-and-retry">Events versus Commands (Event Grid vs Event Hubs)</a>
 
-15:30 - 16:30 - <a href="https://docs.microsoft.com/en-us/azure/event-grid/delivery-and-retry">Event Grid Retries Architecture</a>
+15:30 - 16:30 - <a target="_blank"  href="https://docs.microsoft.com/en-us/azure/event-grid/delivery-and-retry">Event Grid Retries Architecture</a>
 
 16:30 - 17:25 - Deadletter Roadmap
 
@@ -55,12 +55,12 @@ title = "Event Grid"
 
 25:00 - 26:17 - Limitations
 
-26:17 - 29:45 - <a href="https://azure.microsoft.com/en-us/roadmap/azure-event-grid/">Event Grid Roadmap</a>
+26:17 - 29:45 - <a target="_blank"  href="https://azure.microsoft.com/en-us/roadmap/azure-event-grid/">Event Grid Roadmap</a>
 
 29:45 - 30:22 - Go Dos
     <br>
-    <a href="https://docs.microsoft.com/en-us/azure/event-grid/">Event Grid Documenation</a>
+    <a target="_blank"  href="https://docs.microsoft.com/en-us/azure/event-grid/">Event Grid Documenation</a>
      <br>
-    <a href="https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart">CLI Quickstart</a>
+    <a target="_blank"  href="https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart">CLI Quickstart</a>
      <br>
-    <a href="https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal">Portal Quickstart</a>
+    <a target="_blank"  href="https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal">Portal Quickstart</a>

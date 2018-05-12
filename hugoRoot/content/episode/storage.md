@@ -31,23 +31,23 @@ title = "Azure Storage"
 
 04:15 - 06:23 - Overview of Cloud Storage
 
-06:23 - 08:25 - <a
+06:23 - 08:25 - <a target="_blank" 
 href="https://azure.microsoft.com/en-us/services/storage/">Azure Storage
 Overview</a>
 
 08:25 - 09:35 - Storage Capacity Planning in Azure
 
-09:35 - 14:05 - <a
+09:35 - 14:05 - <a target="_blank" 
 href="https://azure.microsoft.com/en-us/blog/announcing-larger-higher-scale-storage-accounts/">Azure
 Storage Limits and Increases in the Limits</a>
 
-14:05 - 17:03 – <a
+14:05 - 17:03 – <a target="_blank" 
 href="https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy">Storage
 Replication</a>
 
 17:03 - 18:43 - What makes Azure Storage Platform unique?
 
-18:43 - 19:28 - <a
+18:43 - 19:28 - <a target="_blank" 
 href="https://azure.microsoft.com/en-us/roadmap/azure-archive-storage-and-blob-level-tiering/">Blob
 Level Tiering and Archive Tier</a>
 
@@ -56,15 +56,15 @@ Level Tiering and Archive Tier</a>
 22:50 - 25:20 - How Azure Storage works with Microsoft
 Storage Partners
 
-25:20 - 29:20 - <a
+25:20 - 29:20 - <a target="_blank" 
 href="https://azure.microsoft.com/en-us/updates/azure-data-box-preview/">Azure
 Data Box</a>
 
-29:20 - 30:10 - <a
+29:20 - 30:10 - <a target="_blank" 
 href="https://azure.microsoft.com/en-us/services/storage/databox/">Azure Data
 Box Case</a>
 
-30:10 - 32:30 - <a
+30:10 - 32:30 - <a target="_blank" 
 href="https://azure.microsoft.com/en-us/resources/videos/azure-friday-hybrid-storage-with-azure-file-sync-langhout/">Hybrid
 File Use Case and Azure Hybrid File Sync</a>
 
@@ -72,7 +72,7 @@ File Use Case and Azure Hybrid File Sync</a>
 href="https://azure.microsoft.com/en-us/roadmap/?category=storage">Azure Storage
 Roadmap</a> 
 
-34:50 - 36:10 - <a
+34:50 - 36:10 - <a target="_blank" 
 href="https://azure.microsoft.com/en-us/updates/?product=storage">Watch Azure
 Blog for Announcements</a>
 
@@ -88,4 +88,4 @@ data
  
 
 
-Azure Storage twitter - <a href="https://twitter.com/azurestorage">@<span class=SpellE>AzureStorage</span></a>
+Azure Storage twitter - <a  target="_blank" href="https://twitter.com/azurestorage">@<span class=SpellE>AzureStorage</span></a>

@@ -35,49 +35,49 @@ class=SpellE>Serverless</span> is
 
 06:36 - What makes functions unique? 
 
-9:25 - <a href="https://github.com/Azure/Azure-Functions">GitHub Repo for Azure Functions</a>
+9:25 - <a target="_blank"  href="https://github.com/Azure/Azure-Functions">GitHub Repo for Azure Functions</a>
 
 11:48 - Function built on <span class=SpellE>webjobs</span>
 
-12:09 - <a
+12:09 - <a  target="_blank" 
 href="https://myignite.microsoft.com/sessions/53234?source=sessions">Cross
 platform (Windows / <span class=GramE>OSX )</span> (Ignite Demo, Fabio)</a>
 
-13:15 - <a
+13:15 - <a  target="_blank" 
 href="https://blogs.microsoft.com/iot/2017/09/25/microsoft-ignite-2017-leading-innovation-iot/">Functions locally as an intelligent edge - on premises runtime (Build, Sam George)</a>
 
-14:50 - <a
+14:50 - <a  target="_blank" 
 href="https://azure.microsoft.com/en-us/case-studies/accuweather-web/"><span
 class=SpellE>Accuweather</span> case study</a>
 
-15.20 - <a
+15.20 - <a  target="_blank" 
 href="https://azure.microsoft.com/en-us/resources/videos/build-2017-automated-provisioning-of-azure-functions-on-carmax-com/?cdn=disable">CarMax
 Case study</a> 
 
-16:14 - <a
+16:14 - <a  target="_blank" 
 href="https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/">Blog
 post 100,000 messages per second using event hubs</a> (<span class=SpellE>Paul</span>
 <span class=SpellE>Battam</span>)
 
-19.29 - <a
+19.29 - <a  target="_blank" 
 href="https://docs.microsoft.com/en-us/azure/app-service/app-service-managed-service-identity">Managed
 Service Identity</a>
 
-20:41 - <a
+20:41 - <a target="_blank" 
 href="https://www.amazon.com/Serverless-computing-Azure-Sasha-Rosenbaum-ebook/dp/B07253JXLG">Sasha's
 Book <span class=SpellE>Serverless</span> Computing</a>
 
-24:30 - <a
+24:30 - <a target="_blank" 
 href="https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/">Blog
 post to <span class=SpellE>xplat</span> build experience</a> 
 
-29:00 - <a
+29:00 - <a target="_blank" 
 href="https://azure.microsoft.com/en-us/pricing/details/functions/">Functions
 as App Service Plan vs consumption</a>
 
 31:00 - Misconceptions
 
-37:29 - <a
+37:29 - <a target="_blank" 
 href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices">Best
 Practices</a> Azure Functions
 
@@ -87,11 +87,11 @@ Practices</a> Azure Functions
 
 39:52 - Go Do's 
 
-<p style='text-indent:.5in'><a
+<p style='text-indent:.5in'><a target="_blank" 
 href="https://blogs.msdn.microsoft.com/appserviceteam/2017/07/06/alpha-preview-for-durable-functions/">Durable
 functions</a>
 
-<p style='text-indent:.5in'><a
+<p style='text-indent:.5in'><a target="_blank" 
 href="https://www.youtube.com/azurefunctions">Functions YouTube Channel</a>
 
 Functions twitter - <a
