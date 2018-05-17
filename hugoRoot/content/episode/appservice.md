@@ -1,12 +1,12 @@
 ﻿+++
 Description = """Azure Web Apps enables you to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Visual Studio Team Services, or any Git repo. 
 </br></br>
-In this podcast we discuss the coolest features of the Azure App Service, the common use cases and the enormous scale the service is running at. We also walk through the most common misconceptions and discuss different technology stacks and languages that can be deployed on the App Service platform. 
-"""
+In this podcast we discuss the coolest features of the Azure App Service, the common use cases and the enormous scale the service is running at. We also walk through the most common misconceptions and discuss different technology stacks and languages that can be deployed on the App Service platform. """
+
 aliases = ["/appservice"]
-author = "Sasha"
+author = "Microsoft GBBs"
 categories = ["App Dev"]
-date = "2018-05-11T12:00:00-00:00"
+date = "2018-05-17T12:00:00-00:00"
 episode = "6"
 episode_image = "img/episode/appservice.png"
 explicit = "No"
@@ -15,7 +15,7 @@ hosts = ["sasrose", "elizagr"]
 news_keywords = []
 podcast_duration = "0:53:12"
 podcast_file = "AppServices.mp3"
-podcast_bytes = "36,969,820"
+podcast_bytes = "36969820"
 tags = []
 title = "Azure App Service"
 draft = "true"
@@ -97,6 +97,4 @@ For a deeper dive on functions, check out our <a target="_blank"  href="/serverl
 
 50:00 - Do you think AI will take over the world?
 
-
-
-
+<a target="_blank"  href="https://azure.microsoft.com/en-us/services/app-service">Azure App Service Documentation</a>
