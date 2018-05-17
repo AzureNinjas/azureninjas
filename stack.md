@@ -1,9 +1,8 @@
 ﻿+++
 Description = """Microsoft Azure Stack is a hybrid cloud platform that lets you deliver Azure services from your organization’s datacenter. Azure Stack is designed to enable new scenarios for your modern applications in key scenarios, like edge and disconnected environments, or meeting specific security and compliance requirements. Azure Stack is offered in two deployment options to meet your needs.
-<br/><br/>
+</br></br>
 In this podcast we discuss the key workloads enabled by Azure Stack, the pricing model and the different services available on Stack. Come learn about this unique Microsoft cloud product from the director of program management for hybrid cloud, Natalia Mackevicius, and an Azure Global Black Belt, Ultan Kinahan"""
-
-aaliases = ["/stack"]
+aliases = ["/stack"]
 author = "Microsoft GBBs"
 categories = ["Stack"]
 date = "2018-05-11T12:00:00-00:00"
