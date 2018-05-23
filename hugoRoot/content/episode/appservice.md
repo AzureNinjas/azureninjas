@@ -18,7 +18,7 @@ podcast_file = "AppServices.mp3"
 podcast_bytes = "36969820"
 tags = []
 title = "Azure App Service"
-draft = "true"
+
 
 +++
 
